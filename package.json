@@ -9,9 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-three/drei": "^7.17.1",
+    "@react-three/fiber": "^7.0.17",
+    "@tensorflow-models/face-landmarks-detection": "^0.0.3",
+    "@tensorflow/tfjs-backend-webgl": "^3.6.0",
+    "@tensorflow/tfjs-converter": "^3.6.0",
+    "@tensorflow/tfjs-core": "^3.6.0",
+    "atomize": "^1.0.28",
+    "i": "^0.3.7",
     "next": "11.1.2",
+    "npm": "^8.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-transition-group": "^4.4.2",
+    "styletron-engine-atomic": "^1.4.8",
+    "styletron-react": "^6.0.1",
+    "three": "^0.133.1"
   },
   "devDependencies": {
     "eslint": "8.0.1",
